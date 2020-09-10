@@ -1,2 +1,1 @@
-# my-front-end-list
-#https://myfrontendlist.web.app/
+# my-front-end-list https://myfrontendlist.web.app/
